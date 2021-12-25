@@ -1,0 +1,12 @@
+# This index is for .cfg commend
+#########################################
+1~999 ： Daily included to 0.cfg
+#########################################
+# 1. Throws trains : dogu.cfg
+# 2. Jump throw for "t" ： 1.cfg
+# 3. bood cleaner for "r" : 2.cfg
+
+#########################################
+1001~1999 : Training
+#########################################
+# 1. ThirdBox Jumping : 1001.cfg
